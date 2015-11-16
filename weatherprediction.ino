@@ -1,6 +1,6 @@
 /*************************************************** 
-  This is a program for the wearble weather watch
-  Instructions on how you build your own can be found on intructables.com
+  This is a program for the wearable weather watch
+  Instructions on how you build your own can be found on instructables.com
   
     
   Written by Agent Mess.
